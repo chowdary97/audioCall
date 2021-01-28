@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "663496106077",
+    "firebase_url": "https://onroad-94e28.firebaseio.com",
+    "project_id": "onroad-94e28",
+    "storage_bucket": "onroad-94e28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663496106077:android:d34a0aee7ef841a9506db4",
+        "android_client_info": {
+          "package_name": "com.onroad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663496106077-i2elo8bfcb6afen2joei4tdra2vknsdc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onroad",
+            "certificate_hash": "02bfd0082955a02fa9c4447f1558126652891dab"
+          }
+        },
+        {
+          "client_id": "663496106077-jbgttiu6k7mr3jqhc92ah5kt71if193d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuDa4SUyrjLVGjxhu4HfIDNwqXU-93pNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663496106077-jbgttiu6k7mr3jqhc92ah5kt71if193d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
